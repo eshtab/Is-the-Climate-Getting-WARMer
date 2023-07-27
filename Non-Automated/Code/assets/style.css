@@ -1,0 +1,123 @@
+#home{
+    line-height: 20px ;
+}
+#porj{
+    line-height: 20px ;
+}
+#weath{
+    line-height: 20px ;
+}
+#thresh{
+    line-height: 20px ;
+}
+#docs{
+    line-height: 20px ;
+}
+h1{
+    color : white;
+    float : center;
+}
+#tabs-content{
+    font-family : Verdana;
+}
+#tabs-ext-content{
+    font-family : Arial;
+}
+#howToForm{
+    width : 100%;
+    text-align: Left;
+    display : table-cell;
+    background-color : #f2f2f2;
+    border-radius : 5px;
+    padding : 20px;
+    margin : 50px;
+    border-spacing : 30px;
+}
+
+#LoadForm{
+    width : 57%;
+    text-align : Left;
+    display : table-cell;
+    background-color : #f2f2f2;
+    border-radius : 5px;
+    padding : 20px;
+    margin : 50px;
+    border-spacing : 30px;
+
+}
+
+#LoadInstruction{
+    width : 20%;
+    text-align : center;
+    display : table-cell;
+    background-color : #f2f2f2;
+    border-radius : 5px;
+    padding : 10px;
+    margin : 10px;
+    border-spacing : 30px;
+}
+
+#LoadDiv{
+    display : table;
+    border-spacing : 30px;
+}
+
+#LoadExtremeForm{
+    width : 57%;
+    text-align : Left;
+    display : table-cell;
+    background-color : #f2f2f2;
+    border-radius : 5px;
+    padding : 20px;
+    margin : 50px;
+    border-spacing : 30px;
+
+}
+
+#ExtermeInstruction{
+    width : 20%;
+    text-align : center;
+    display : table-cell;
+    background-color : #f2f2f2;
+    border-radius : 5px;
+    padding : 10px;
+    margin : 10px;
+    border-spacing : 30px;
+}
+
+#ExtremeDiv{
+    display : table;
+    border-spacing : 30px;
+}
+
+    
+#years3{
+    display : inline-block;
+    width : 150px;
+}
+#months1{
+    display : inline-block;
+    width : 150px;
+}
+#months2{
+    display : inline-block;
+    width : 150px;
+    float : right
+}
+#years4{
+    display : inline-block;
+    width : 150px;
+    float : right;
+}
+
+#years1{
+    display : inline-block;
+    width : 325px;
+}
+
+#years2{
+    display : inline-block;
+    width : 325px;
+    float : right;
+}
+
